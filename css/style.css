@@ -18,6 +18,10 @@ h1 {
     
   }
 
+#image:hover {
+    filter: grayscale(0%);
+  }
+
 h2{
     font-family:Helvetica;
     font-size: medium;
